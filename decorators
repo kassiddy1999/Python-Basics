@@ -1,0 +1,7 @@
+def cough(func)
+
+    def func_wrapper();
+        print(
+            
+        )
+        func()
